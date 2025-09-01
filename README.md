@@ -18,6 +18,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
+<img width="296" height="1567" alt="iPhone-X-127 0 0 1" src="https://github.com/user-attachments/assets/2ef50dac-f875-44dc-9a87-41755dd295a8" />
 
 
 ### Links
