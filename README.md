@@ -48,7 +48,7 @@ To see how you can add code snippets, see below:
 
 ### Continued development
 
-lessen the css code line 
+lessen the css code line and learn more on responsive layouts
 
 
 ### Useful resources
@@ -59,5 +59,5 @@ lessen the css code line
 
 - Website - [rkenj](https://www.rkenj.com)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+
 
